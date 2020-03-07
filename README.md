@@ -1,6 +1,6 @@
 # Employee-Management-System
 
-This project is used to develop single page application using Angular 8 as front-end technology. This Angular 8 application consumes CRUD Restful APIs developed and exposed by a springboot2-jpa-crud-example project. <br/
+This project is used to develop single page application using Angular 8 as front-end technology. This Angular 8 application consumes CRUD Restful APIs developed and exposed by a springboot2-jpa-crud-example project + Exception Handler<br/
 
 Well documented example for learning purpose: Spring Boot for implementing a RESTful backend, and Angular for creating a JavaScript-based frontend <br />
 
