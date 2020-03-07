@@ -12,6 +12,7 @@ Run class JavaSpringBackendApplication.java <br />
 Open the browser on URL = http://localhost:8080/api/employees <br />
 ## Frontend
 Angular Version is 8.0.6 <br />
+Node Version is 12.16.0 <br />
 Open the Angular frontend folder (angularFrontend) on Git Bash and type npm install <br />
 Lunch the Angular app with ng serve --open <br />
 
