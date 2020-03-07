@@ -11,8 +11,8 @@ Import the Java Backend folder (javaSpringBackend) on your favorite editor examp
 Run class JavaSpringBackendApplication.java <br />
 Open the browser on URL = http://localhost:8080/api/employees <br />
 ## Frontend
-## PS: Angular Version is 8.0.6 <br />
-## PS: Node Version is 12.16.0 <br />
+#### PS: Angular Version is 8.0.6 <br />
+#### PS: Node Version is 12.16.0 <br />
 Open the Angular frontend folder (angularFrontend) on Git Bash and type npm install <br />
 Lunch the Angular app with ng serve --open <br />
 
